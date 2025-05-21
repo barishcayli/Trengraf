@@ -40,8 +40,8 @@ Trenlerin gönderdiği sinyallere göre anlık olarak güncellenir ve planlanan 
 ## Genel
 
 Bu proje benim staj sürecimde geliştirdiğim projelerden birisidir. Tren takibini kolaylaştırmak, verimliliği arttırmak için tasarlanan bu ürünün emsali çok azdır.
-Şubat 2025 - Mart 2025
-
+## Şubat 2025 - Mart 2025
+## Barış Çaylı
 
 
 
