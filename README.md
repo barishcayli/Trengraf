@@ -1,15 +1,15 @@
-## 📈Trengraf - Savronik clone
+## Trengraf - Savronik clone
 
 Bu proje trenlerin anlık konumlarının ya da geçmiş konumlarının raylara, istasyonlara, makaslara göre takip edebilmemizi sağlar.
 Trenlerin gönderdiği sinyallere göre anlık olarak güncellenir ve planlanan sefer saatleri ve gerçekleştirilen sefer saatlerine göre bir grafik çizilir.
 
-## 🧰 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Java
 - JavaFX
 - PostgreSQL
 
-## ✨Tanıtım
+## Tanıtım
 
 - Uygulama genel olarak en fazla 24 saat ve 30 yol göstermektedir en az 10 dakika ve 10 yol göstermektedir. Kaydırma işlemleri ile istenilen zamana gidilebilir.
 - Çizilen kesintili çizgiler planlanan seferi gösrermektedir, düz çizgiler ise gerçekleşen seferi göstermektedir.
