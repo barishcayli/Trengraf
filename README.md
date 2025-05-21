@@ -15,6 +15,7 @@ PostgreSQL
 -Çizilen kesintili çizgiler planlanan seferi gösrermektedir, düz çizgiler ise gerçekleşen seferi göstermektedir.
 -Çizgilerin renkleri trenlerin türlerine göre değişiklik göstermektedir. Kolay bir şekilde anlaşılması için altta türleri bulunmaktadır.
 -Gerçekleşen sefer ve planlanan sefer arasında bulunan zaman farkı her gelen sinyalle birlikte işlenmektedir buna tehir denmektedir.
+
 ![Ekran görüntüsü 2025-05-21 141216](https://github.com/user-attachments/assets/f853e2df-35c8-4f65-92a0-5988d0854c59)
 
 -Trenlerin sefer boyunca geçtiği yolların giriş ve çıkış saatlerini, trene eklenen notu, türünü görebileceğimiz bir sayfa bulunmaktadır. Bu sayfa aracılığı ile not ekleyebiliriz ve ya silebiliriz.
