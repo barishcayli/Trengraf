@@ -1,4 +1,4 @@
-## Trengraf - Savronik clone
+## Trengraf - Savronik
 
 Bu proje trenlerin anlık konumlarının ya da geçmiş konumlarının raylara, istasyonlara, makaslara göre takip edebilmemizi sağlar.
 Trenlerin gönderdiği sinyallere göre anlık olarak güncellenir ve planlanan sefer saatleri ve gerçekleştirilen sefer saatlerine göre bir grafik çizilir.
